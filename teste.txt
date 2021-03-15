@@ -3,3 +3,5 @@ GITHUB
 
 aRQUIVO TESTE PARA udemy gitgit status
 =======
+
+Texto detalhando o funcionamento do GIT para comparação entre versoes
